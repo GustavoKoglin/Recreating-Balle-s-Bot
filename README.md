@@ -11,6 +11,6 @@ EN:
 
 This project was created by Rafaella Ballerini, where I just recreated the project in English in my own way.
 
-Linkedin profile of the original creator of the project: <https://www.linkedin.com/in/rafaella-ballerini-45875016a/>
+LinkedIn profile of the original creator of the project: <https://www.linkedin.com/in/rafaella-ballerini-45875016a/>
 
 Creator's Github profile: <https://www.linkedin.com/in/rafaella-ballerini-45875016a/>
